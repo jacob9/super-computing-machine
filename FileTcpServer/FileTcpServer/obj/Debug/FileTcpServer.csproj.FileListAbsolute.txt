@@ -13,3 +13,6 @@ C:\Users\Bruno Damjanovic\Desktop\FileTcpServer\FileTcpServer\obj\Debug\FileTcpS
 C:\Users\Jakub\Desktop\FileTcpServer\FileTcpServer\bin\Debug\FileTcpServer.exe.config
 C:\Users\Jakub\Desktop\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.exe
 C:\Users\Jakub\Desktop\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.pdb
+C:\Users\Jakub\Desktop\project\FileTcpServer\FileTcpServer\bin\Debug\FileTcpServer.exe.config
+C:\Users\Jakub\Desktop\project\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.exe
+C:\Users\Jakub\Desktop\project\FileTcpServer\FileTcpServer\obj\Debug\FileTcpServer.pdb

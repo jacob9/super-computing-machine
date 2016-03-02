@@ -24,7 +24,7 @@ namespace FileClient
             String fileToReceive = Console.ReadLine();
             Console.WriteLine();
 
-            using (TcpClient client = new TcpClient("localhost", SERVER_PORT))
+            using (TcpClient client = new TcpClient("192.168.6.55", SERVER_PORT))
             {
                 using (Stream stream = client.GetStream())
                 {
